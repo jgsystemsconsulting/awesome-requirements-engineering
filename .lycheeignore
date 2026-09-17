@@ -1,0 +1,10 @@
+# URLs that are live in a browser but return 403/anti-scrape to automated
+# checkers. Add a line only after confirming the link is genuinely live in a
+# browser. Keep this list short. Re-verify during the quarterly sweep.
+
+# ACM Digital Library blocks automated clients (2026-09)
+https://dl\.acm\.org/
+
+# SEBoK wiki returns 403 to automated clients (2026-09)
+https://sebokwiki\.org/
+https://www\.sebokwiki\.org/
