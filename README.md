@@ -43,7 +43,7 @@ See [Editorial neutrality](CONTRIBUTING.md#7-editorial-neutrality).
 
 - [EARS (IEEE RE 2009 paper)](https://doi.org/10.1109/RE.2009.9) - The IEEE RE 2009 paper by Mavin et al. introducing EARS `textual` `EARS` `paper` `paid` (2009).
 - [Software Requirements, 3rd ed. (Wiegers & Beatty)](https://www.microsoftpressstore.com/store/software-requirements-9780735679665) - Microsoft Press' end-to-end practitioner handbook on requirements practices `textual` `book` `paid` (2013).
-- [Requirements Engineering: From System Goals to UML Models to Software Specifications (van Lamsweerde)](https://www.wiley.com/en-us/Requirements+Engineering%3A+From+System+Goals+to+UML+Models+to+Software+Specifications-p-9780470012703) - The Wiley synthesis of KAOS goal-oriented requirements engineering `model-based` `KAOS` `book` `paid` (2009).
+- [Requirements Engineering: From System Goals to UML Models to Software Specifications (van Lamsweerde)](https://lccn.loc.gov/2008042045) - The Wiley synthesis of KAOS goal-oriented requirements engineering (LCCN 2008042045) `model-based` `KAOS` `book` `paid` (2009).
 - [Requirements Engineering: A Roadmap (Nuseibeh & Easterbrook)](https://dl.acm.org/doi/10.1145/336512.336523) - The ICSE 2000 roadmap survey of RE research and practice `RE-general` `paper` `paid` (2000).
 - [Four Dark Corners of Requirements Engineering (Zave & Jackson)](https://dl.acm.org/doi/10.1145/237432.237434) - The 1997 TOSEM paper defining the requirements-to-specification relationship `RE-general` `paper` `paid` (1997).
 - [Requirements Engineering Fundamentals, 2nd ed. (Pohl & Rupp)](https://rockynook.com/product/requirements-engineering-fundamentals-2nd-edition/) - The IREB CPRE Foundation Level study guide from Rocky Nook `RE-general` `book` `paid` (2015).
