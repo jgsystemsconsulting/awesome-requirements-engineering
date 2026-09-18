@@ -37,7 +37,7 @@ Primary sources consulted this session:
 | Badge | PASS | awesome.re badge already on README |
 | Depth | PASS | 40 entries after first full sweep (thicker than thin-list risk) |
 | Licence | PASS | CC0-1.0 |
-| Visibility | FAIL now | Repo is private; awesome requires a public list |
+| Visibility | PASS | Repo public as of 2026-09-18 |
 
 ## Decision
 
@@ -47,7 +47,7 @@ Do not open the sindresorhus/awesome PR in this package or until all prerequisit
 
 ### Prerequisites before PR
 
-1. Repo visibility public (family decision; backlog b-01).
+1. Repo visibility public — done 2026-09-18 (backlog b-01).
 2. GitHub Pages live and homepage set; product-surface lychee green on main (README + docs/index.html).
 3. Release gate green on main (chips, section anchors, font assets).
 4. Re-read awesome PR template at submit time; fix any new template items.
