@@ -4,7 +4,7 @@
 
 ![Last full sweep: 2026-09](https://img.shields.io/badge/last%20full%20sweep-2026--09-brightgreen)
 
-Part of the awesome-mbse list family (hub private; family pointer is text-only).
+Part of the awesome-mbse list family (hub private; family pointer is text-only while the hub stays private).
 
 Maintained by [JG Systems Consulting Ltd.](https://github.com/jgsystemsconsulting).
 See [Editorial neutrality](CONTRIBUTING.md#7-editorial-neutrality).
@@ -18,6 +18,11 @@ See [Editorial neutrality](CONTRIBUTING.md#7-editorial-neutrality).
 - [Open-source tools](#open-source-tools)
 - [Commercial tools](#commercial-tools)
 - [Learning, certification, and community](#learning-certification-and-community)
+- [Contributing](#contributing)
+- [Install](#install)
+- [Usage](#usage)
+- [Support](#support)
+- [Version](#version)
 
 ## Standards and guides
 
@@ -79,3 +84,43 @@ See [Editorial neutrality](CONTRIBUTING.md#7-editorial-neutrality).
 - [REFSQ](https://conf.researchr.org/home/refsq-2026) - Requirements Engineering: Foundation for Software Quality, the annual working conference `RE-general` `community` (2026).
 - [SEBoK](https://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_%28SEBoK%29) - The Guide to the Systems Engineering Body of Knowledge, with requirements chapters `RE-general` `guide` (2026).
 - [SWEBOK Guide V4](https://www.computer.org/education/bodies-of-knowledge/software-engineering) - IEEE's Software Engineering Body of Knowledge, with a dedicated Requirements knowledge area `RE-general` `guide` (2025).
+
+## Contributing
+
+Contributions welcome: see [CONTRIBUTING.md](CONTRIBUTING.md) for the inclusion bar,
+entry format, and tag vocabulary.
+
+## Install
+
+Nothing to install. This list is a curated index: browse it here on GitHub,
+or clone it:
+
+```bash
+git clone https://github.com/jgsystemsconsulting/awesome-requirements-engineering.git
+```
+
+## Usage
+
+1. Open the Contents at the top and jump to a section, or search the page with
+   your browser's find function.
+2. Open any entry's link to reach the upstream resource; the list never
+   re-hosts content.
+3. To suggest a resource or report a defect, use the Support channels below
+   (or open a pull request that follows CONTRIBUTING.md).
+
+## Support
+
+- Bug or dead link: [bug report form](https://github.com/jgsystemsconsulting/awesome-requirements-engineering/issues/new?template=bug_report.yml)
+- Suggest a resource (the list's improvement channel):
+  [suggestion form](https://github.com/jgsystemsconsulting/awesome-requirements-engineering/issues/new?template=suggest-resource.yml)
+- Security issues: [private security advisory](https://github.com/jgsystemsconsulting/awesome-requirements-engineering/security/advisories/new)
+  (see [SECURITY.md](SECURITY.md))
+- SysML v2 language resources belong on the sibling list:
+  [awesome-sysml-v2](https://github.com/jgsystemsconsulting/awesome-sysml-v2)
+- Licence: this list is [CC0 1.0 Universal](LICENSE). Linked resources keep their
+  own licences. Licence enquiries: [labs licensing form](https://labs.jgsystemsconsulting.com/licensing.html).
+
+## Version
+
+Current release: **0.1.0** (2026-09-18). See [CHANGELOG.md](CHANGELOG.md) and
+[RELEASE-INFO.txt](RELEASE-INFO.txt).
