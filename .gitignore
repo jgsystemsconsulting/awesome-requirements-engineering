@@ -1,1 +1,9 @@
+*.bak
+*.pyc
+.DS_Store
+.lycheecache
+.playwright-mcp/
+.venv/
+Thumbs.db
+__pycache__/
 lychee/

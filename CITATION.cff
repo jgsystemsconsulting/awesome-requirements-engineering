@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this list in your work, please cite it using this metadata."
+title: "Awesome Requirements Engineering"
+version: "0.1.0"
+date-released: "2026-09-18"
+authors:
+  - entity:
+      name: "JG Systems Consulting Ltd"
+license: CC0-1.0
+repository-code: "https://github.com/jgsystemsconsulting/awesome-requirements-engineering"
+url: "https://github.com/jgsystemsconsulting/awesome-requirements-engineering"
+preferred-citation:
+  type: generic
+  title: "Awesome Requirements Engineering"
+  authors:
+    - entity:
+        name: "JG Systems Consulting Ltd"
+  year: 2026
+  version: "0.1.0"
+  repository-code: "https://github.com/jgsystemsconsulting/awesome-requirements-engineering"
