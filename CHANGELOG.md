@@ -3,6 +3,11 @@
 Maintenance sweeps and notable changes. The "Last full sweep" badge in the README
 tracks the most recent dated entry here.
 
+## 2026-09: SA WARN polish
+
+- LICENSE switched to GitHub-detectable CC0 1.0 Legal Code form (sidebar CC0-1.0).
+- README logo at media/logo.svg (half-width, linked to Pages).
+
 ## 2026-09: sindresorhus awesome README shape
 
 - Theme blurb rewritten for SA-BLURB (subject, not curated-list wording).
