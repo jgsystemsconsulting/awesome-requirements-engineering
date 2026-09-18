@@ -12,7 +12,7 @@ REQUIRED = [
     "LICENSE", "COPYRIGHT", "NOTICE", "README.md", "CHANGELOG.md",
     "RELEASE-INFO.txt", "CITATION.cff", "SECURITY.md", ".gitignore",
     "CONTRIBUTING.md", "CODE_OF_CONDUCT.md", "docs/DISTRIBUTION.md",
-    "docs/index.html", "scripts/check_release.py",
+    "docs/index.html", "docs/MATURITY.md", "scripts/check_release.py",
     # Landing self-hosted fonts (Path S). Write path: bump chips in docs/index.html
     # only when RELEASE-INFO Version, README sweep badge, or curated entry count
     # change; section-index href fragments must match README ## anchors.

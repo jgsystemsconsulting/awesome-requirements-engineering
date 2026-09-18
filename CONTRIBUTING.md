@@ -3,6 +3,11 @@
 Thanks for helping keep this the best-curated requirements engineering index anywhere.
 Read this before opening a PR: the CI gates enforce most of it.
 
+**Lint is mandatory.** `awesome-lint` on `README.md` must pass on every push and pull
+request to `main` (`.github/workflows/lint.yml`). Do not merge with a red lint job.
+Spoke maturity (RR-B packaging + sindresorhus/awesome SA bar) is documented in
+[docs/MATURITY.md](docs/MATURITY.md).
+
 The fastest path: open an [issue using the "Suggest a resource" form](../../issues/new/choose),
 or open a pull request that edits `README.md` directly.
 

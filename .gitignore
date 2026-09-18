@@ -7,3 +7,7 @@
 Thumbs.db
 __pycache__/
 lychee/
+
+# Local SA / link-check artifacts (do not commit machine audit dumps)
+docs/superpowers/sa-audit-*.json
+sa-audit-*.json
