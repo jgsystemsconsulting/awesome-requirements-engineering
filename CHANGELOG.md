@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09: v0.1.1 packaging and awesome-readiness polish
+
+- README packaging shell (Install, Usage, Support, Version) and public repo.
+- Path S Pages landing, release gate, Labs catalogue entry, GitHub Release channel live.
+- Sindresorhus awesome shape: theme blurb, Contents/lint clean, CC0 sidebar detection, README logo.
+- Remaining awesome gate: 30-day maturity (first commit 2026-09-17).
+
 Maintenance sweeps and notable changes. The "Last full sweep" badge in the README
 tracks the most recent dated entry here.
 

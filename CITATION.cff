@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this list in your work, please cite it using this metadata."
 title: "Awesome Requirements Engineering"
-version: "0.1.0"
+version: "0.1.1"
 date-released: "2026-09-18"
 authors:
   - entity:
@@ -16,5 +16,5 @@ preferred-citation:
     - entity:
         name: "JG Systems Consulting Ltd"
   year: 2026
-  version: "0.1.0"
+  version: "0.1.1"
   repository-code: "https://github.com/jgsystemsconsulting/awesome-requirements-engineering"

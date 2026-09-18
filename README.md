@@ -125,5 +125,5 @@ git clone https://github.com/jgsystemsconsulting/awesome-requirements-engineerin
 
 ## Version
 
-Current release: **0.1.0** (2026-09-18). See [CHANGELOG.md](CHANGELOG.md) and
+Current release: **0.1.1** (2026-09-18). See [CHANGELOG.md](CHANGELOG.md) and
 [RELEASE-INFO.txt](RELEASE-INFO.txt).

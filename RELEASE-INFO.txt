@@ -1,4 +1,4 @@
 Product: Awesome Requirements Engineering
-Version: 0.1.0
-Built: 2026-09-18T12:33:37Z
-Tag: v0.1.0
+Version: 0.1.1
+Built: 2026-09-18T14:51:07Z
+Tag: v0.1.1

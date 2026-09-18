@@ -5,14 +5,14 @@ See LICENSE for terms.
 
 # Distribution ledger
 
-Last reviewed: 0.1.0 (2026-09-18)
+Last reviewed: 0.1.1 (2026-09-18)
 
 Per-channel status for Awesome Requirements Engineering under Release Repo Standard RR-B-36.
 
 | Channel | Artifact | Status | Decision / notes | Date |
 | --- | --- | --- | --- | --- |
 | GitHub repo | jgsystemsconsulting/awesome-requirements-engineering | live (public) | Canonical home of the list. Visibility flipped public 2026-09-18. | 2026-09-18 |
-| GitHub Releases | v0.1.0 | submitted | Release v0.1.0 published from the CHANGELOG entry with the licence-enquiry footer. | 2026-09-18 |
+| GitHub Releases | v0.1.1 | submitted | Release v0.1.1 published from the CHANGELOG entry with the licence-enquiry footer (supersedes v0.1.0 packaging baseline). | 2026-09-18 |
 | GitHub Pages landing | docs/index.html | submitted | Served from main /docs; homepage URL set; public repo. | 2026-09-18 |
 | GitHub About, topics, homepage | repo settings | submitted | Description set; topics include awesome, awesome-list, requirements-engineering, mbse, reqif, ireb; homepage set to Pages URL. | 2026-09-18 |
 | Org catalogue (labs.jgsystemsconsulting.com) | site entry | submitted | Entry merged via jgsystemsconsulting-website#3 (products.yml order 13 + docs/index.html). Live after Labs Pages build. | 2026-09-18 |
