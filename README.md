@@ -1,10 +1,6 @@
 # Awesome Requirements Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<p align="right">
-  <a href="https://jgsystemsconsulting.github.io/awesome-requirements-engineering/">
-    <img src="media/logo.svg" width="256" alt="Requirements Engineering">
-  </a>
-</p>
+[<img src="media/logo.svg" align="right" width="100" alt="Requirements Engineering">](https://jgsystemsconsulting.github.io/awesome-requirements-engineering/)
 
 > Discipline of eliciting, specifying, validating, and managing requirements for systems and software.
 
