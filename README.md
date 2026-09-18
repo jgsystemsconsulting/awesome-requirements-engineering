@@ -1,6 +1,6 @@
 # Awesome Requirements Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of requirements engineering resources: standards, methods, interchange formats, tools, books, and community.
+> Discipline of eliciting, specifying, validating, and managing requirements for systems and software.
 
 ![Last full sweep: 2026-09](https://img.shields.io/badge/last%20full%20sweep-2026--09-brightgreen)
 
@@ -18,7 +18,6 @@ See [Editorial neutrality](CONTRIBUTING.md#7-editorial-neutrality).
 - [Open-source tools](#open-source-tools)
 - [Commercial tools](#commercial-tools)
 - [Learning, certification, and community](#learning-certification-and-community)
-- [Contributing](#contributing)
 - [Install](#install)
 - [Usage](#usage)
 - [Support](#support)
@@ -117,8 +116,6 @@ git clone https://github.com/jgsystemsconsulting/awesome-requirements-engineerin
   (see [SECURITY.md](SECURITY.md))
 - SysML v2 language resources belong on the sibling list:
   [awesome-sysml-v2](https://github.com/jgsystemsconsulting/awesome-sysml-v2)
-- Licence: this list is [CC0 1.0 Universal](LICENSE). Linked resources keep their
-  own licences. Licence enquiries: [labs licensing form](https://labs.jgsystemsconsulting.com/licensing.html).
 
 ## Version
 

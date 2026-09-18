@@ -3,6 +3,12 @@
 Maintenance sweeps and notable changes. The "Last full sweep" badge in the README
 tracks the most recent dated entry here.
 
+## 2026-09: sindresorhus awesome README shape
+
+- Theme blurb rewritten for SA-BLURB (subject, not curated-list wording).
+- Contents drops Contributing (SA + awesome-lint); keeps Install/Usage/Support/Version.
+- Support drops Licence boilerplate (licence stays in sidebar/landing/release).
+
 ## 2026-09: Pages landing and release packaging shell
 
 - Path S GitHub Pages landing, release gate, product-surface link CI, Labs catalogue entry.
