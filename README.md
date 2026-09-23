@@ -22,6 +22,10 @@ See [Editorial neutrality](CONTRIBUTING.md#7-editorial-neutrality).
 - [Open-source tools](#open-source-tools)
 - [Commercial tools](#commercial-tools)
 - [Learning, certification, and community](#learning-certification-and-community)
+- [Install](#install)
+- [Usage](#usage)
+- [Support](#support)
+- [Version](#version)
 
 ## Standards and guides
 
