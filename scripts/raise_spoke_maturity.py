@@ -1,3 +1,5 @@
+# Copyright (c) 2026 JG Systems Consulting Ltd. See LICENSE.
+# SPDX-License-Identifier: CC0-1.0
 from pathlib import Path
 import csv, re, subprocess, sys, json
 RE = Path(__file__).resolve().parents[1]
