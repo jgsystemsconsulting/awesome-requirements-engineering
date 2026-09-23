@@ -6,7 +6,7 @@
 
 ![Last full sweep: 2026-09](https://img.shields.io/badge/last%20full%20sweep-2026--09-brightgreen)
 
-Part of the awesome-mbse list family (hub private; family pointer is text-only while the hub stays private).
+Part of the [awesome-mbse list family](https://github.com/jgsystemsconsulting/awesome-mbse/blob/main/FAMILY.md).
 
 People and organizations behind these resources: [awesome-mbse-community](https://github.com/jgsystemsconsulting/awesome-mbse-community).
 
@@ -125,3 +125,7 @@ git clone https://github.com/jgsystemsconsulting/awesome-requirements-engineerin
 
 Current release: **0.1.1** (2026-09-18). See [CHANGELOG.md](CHANGELOG.md) and
 [RELEASE-INFO.txt](RELEASE-INFO.txt).
+
+## Licence
+
+Copyright (c) 2026 JG Systems Consulting Ltd. See [LICENSE](LICENSE). No purchase or licence key is needed to use this list; for commercial questions, see [labs.jgsystemsconsulting.com/licensing.html](https://labs.jgsystemsconsulting.com/licensing.html).
