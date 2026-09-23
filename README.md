@@ -123,9 +123,8 @@ git clone https://github.com/jgsystemsconsulting/awesome-requirements-engineerin
 
 ## Version
 
+Copyright (c) 2026 JG Systems Consulting Ltd. See [LICENSE](LICENSE). No purchase or licence key is needed to use this list; for commercial questions, see [labs.jgsystemsconsulting.com/licensing.html](https://labs.jgsystemsconsulting.com/licensing.html).
+
 Current release: **0.1.1** (2026-09-18). See [CHANGELOG.md](CHANGELOG.md) and
 [RELEASE-INFO.txt](RELEASE-INFO.txt).
 
-## Licence
-
-Copyright (c) 2026 JG Systems Consulting Ltd. See [LICENSE](LICENSE). No purchase or licence key is needed to use this list; for commercial questions, see [labs.jgsystemsconsulting.com/licensing.html](https://labs.jgsystemsconsulting.com/licensing.html).
