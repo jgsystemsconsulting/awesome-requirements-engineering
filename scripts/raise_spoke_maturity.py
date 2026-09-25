@@ -5,8 +5,8 @@ import csv, re, subprocess, sys, json
 RE = Path(__file__).resolve().parents[1]
 BASE = RE.parent
 AUD = Path.home() / '.zcode/skills/sindresorhus-awesome-ready/tools/audit.py'
-MATURITY = (RE / 'docs/MATURITY.md').read_text(encoding='utf-8')
-PROMPT = (RE / 'docs/superpowers/prompts/awesome-spoke-maturity.md').read_text(encoding='utf-8')
+MATURITY = (RE / 'internal/MATURITY.md').read_text(encoding='utf-8')
+PROMPT = (RE / 'internal/superpowers/prompts/awesome-spoke-maturity.md').read_text(encoding='utf-8')
 GOLD_LIC = (RE / 'LICENSE').read_text(encoding='utf-8')
 GI = chr(10).join(['', '# Local SA / link-check artifacts', 'docs/superpowers/sa-audit-*.json', 'sa-audit-*.json', ''])
 
