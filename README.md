@@ -65,6 +65,8 @@ See [Editorial neutrality](CONTRIBUTING.md#7-editorial-neutrality).
 - [CAIRIS](https://github.com/cairis-platform/cairis) - Platform for modeling requirements together with the security properties they shape `model-based` `other-tool` `tool` (2023).
 - [StrictDoc](https://github.com/strictdoc-project/strictdoc) - Requirements and documentation tool with ReqIF support and traceability `textual` `other-tool` `tool` (2026).
 
+- [Cage](https://github.com/vitalik1921/cage) - TypeScript contract harness linking Markdown specs to implementations, tests, and freshness-tracked reviews. `textual` `other-tool` `tool` (2026).
+
 ## Commercial tools
 
 - [IBM Engineering Requirements Management DOORS Next](https://www.ibm.com/products/requirements-management-doors-next) - IBM's web-based requirements management for engineering lifecycle traceability `RE-general` `DOORS` `tool` `paid` (2026).
